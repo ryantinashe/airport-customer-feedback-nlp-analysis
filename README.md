@@ -50,6 +50,13 @@ The notebook contains exploratory visualisations for examining word frequencies,
 
 ## Visualisations
 
+### Word Cloud
+
+![Airport Feedback Word Cloud](visualizations/airport_wordcloud.png)
+
+[View Word Cloud on GitHub](https://github.com/ryantinashe/airport-customer-feedback-nlp-analysis/blob/main/visualizations/airport_wordcloud.png)
+
+
 ### Sentiment Polarity Distribution
 
 ![Sentiment Distribution](visualizations/sentiment_distribution.png)
