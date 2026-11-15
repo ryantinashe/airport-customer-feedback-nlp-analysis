@@ -1,6 +1,9 @@
 
 # Airport Customer Feedback Analysis Using Natural Language Processing
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryantinashe/airport-customer-feedback-nlp-analysis/blob/main/Data_Project_Runtime_Fixed.ipynb)
+
+
 ## Project Overview
 
 This project explores how Natural Language Processing (NLP) can be applied to airport customer feedback to identify sentiment, examine subjectivity, discover recurring discussion topics, and visualise patterns in textual data.
