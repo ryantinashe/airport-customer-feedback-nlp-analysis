@@ -80,11 +80,13 @@ The included Excel workbook contains reconstructed demonstration comments and si
 4. Execute the notebook cells in order.
 5. Review the generated sentiment, topic-modelling and visualisation outputs.
 
+
 ## Project Files
 
-- `Data_Project_Runtime_Fixed.ipynb` — Python NLP analysis notebook.
-- `synthetic_airport_feedback_demo.xlsx` — reconstructed demonstration dataset.
-- `visualizations/` — exported analysis charts.
+- [`airport_sentiment_topic_modeling.ipynb`](airport_sentiment_topic_modeling.ipynb) — Jupyter notebook containing the NLP analysis.
+- [`airport_feedback_.xlsx`](airport_feedback_.xlsx) — reconstructed demonstration dataset used for the analysis.
+- [`visualizations/`](visualizations/) — exported charts and visualisations.
+
 
 ## Future Improvements
 
