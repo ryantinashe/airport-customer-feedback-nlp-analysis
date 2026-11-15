@@ -1,7 +1,8 @@
 
 # Airport Customer Feedback Analysis Using Natural Language Processing
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryantinashe/airport-customer-feedback-nlp-analysis/blob/main/Data_Project_Runtime_Fixed.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryantinashe/airport-customer-feedback-nlp-analysis/blob/main/airport_sentiment_topic_modeling.ipynb)
 
 
 ## Project Overview
