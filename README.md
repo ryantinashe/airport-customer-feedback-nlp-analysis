@@ -46,10 +46,9 @@ The notebook contains exploratory visualisations for examining word frequencies,
 
 ## Visualisations
 
-### Word Cloud
+### Sentiment Polarity Distribution
 
-![Airport Feedback Word Cloud](visualizations/airport_wordcloud.png)
-
+![Sentiment Distribution](visualizations/sentiment_distribution.png)
 ### Sentiment Polarity Distribution
 
 ![Sentiment Distribution](visualizations/sentiment_distribution.png)
