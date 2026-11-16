@@ -103,5 +103,5 @@ Ryan Tinashe Hwati
 
 ## Project Status
 
-Exploratory NLP portfolio project.
+Exploratory NLP portfolio project
   
